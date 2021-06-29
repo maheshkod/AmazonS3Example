@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s77zwEe+YoSMOuD7W/DzkyFtiPZ67hEWPgFu7W5hvBKzchKY8sYMLPcjJFQEtgFY9u3eUInHzkk+/OG1+QNVLA==",
+  "success": true,
+  "projectFilePath": "/Users/kodamati/Desktop/AWS/S3Demo/S3CreateList/S3CreateList.csproj",
+  "expectedPackageFiles": [
+    "/Users/kodamati/.nuget/packages/awssdk.core/3.7.0.37/awssdk.core.3.7.0.37.nupkg.sha512",
+    "/Users/kodamati/.nuget/packages/awssdk.s3/3.7.1.7/awssdk.s3.3.7.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
